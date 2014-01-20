@@ -40,9 +40,10 @@ Status
  * PWM: untested
  * PMIC: untested
  * PMIC PWM: untested
- * CPUfreq: not working
+ * CPUfreq: working: https://github.com/beagleboard/kernel/commit/f803c5b206df66683046d2d6f5be545168faf85a
  * Capes: untested
  * AUDIO: untested
+ * PowerDown: broken, device remains on after [halt]
 
 Bootlog (needs update)
 ======
